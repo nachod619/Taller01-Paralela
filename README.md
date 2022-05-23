@@ -1,6 +1,6 @@
 # Taller01-Paralela
 taller 1 Computación Paralela y Distribuida
-Integrantes :
-Byron Beas Menaique
-Ignacio Delgado Vargas
-Matias Inostroza Quinteros
+Integrantes : /n
+Byron Beas Menaique /n
+Ignacio Delgado Vargas /n
+Matias Inostroza Quinteros /n
