@@ -9,6 +9,7 @@ Ignacio Delgado Vargas
 
 Matias Inostroza Quinteros
 
+**NOTA: recuerde agregar a la carpeta de cada programa el archivo PRUEBAS.csv **
 --------------------------------------------
 
 
