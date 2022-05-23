@@ -34,7 +34,7 @@ int main ()
     getline(archivo,linea); //lee la primera linea para no contabilizarla
     //ejecuta mientras exista algun estudiante
     time_req = clock();
-    #pragma omp barrier
+    #pragma omp barriel
     {
     while (getline(archivo, linea))
     {
