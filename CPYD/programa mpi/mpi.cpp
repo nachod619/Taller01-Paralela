@@ -75,7 +75,6 @@ int main ( int argc, char *argv[])
     //se cierran ambos archivos
     archivo.close(); 
     archivo2.close();
-    cout << "COLO-COLO ES CHILE <3"<<"\r\n";
     time_req = clock() - time_req;
     cout<<"Tiempo de procesamiento = " << (float)time_req/CLOCKS_PER_SEC <<" segundos"<<"\r\n"<<endl;
     MPI_Finalize();
