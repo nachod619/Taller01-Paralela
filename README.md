@@ -9,6 +9,8 @@ Ignacio Delgado Vargas
 
 Matias Inostroza Quinteros
 
-Universidad Tecnologica Metropolitana
-Facultad de ingenieria
-Escuela de informatica
+Universidad Tecnologica Metropolitana.
+
+Facultad de Ingenieria.
+
+Escuela de Informatica
