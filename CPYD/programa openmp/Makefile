@@ -1,6 +1,6 @@
 #variables
 CC=g++
-obj= secuencial.cpp
+obj= omp.cpp
 LIB=-fopenmp
 CPPFLAGS=-Wall -g3
 MKDIR=mkdir -p
