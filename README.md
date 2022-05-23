@@ -9,6 +9,9 @@ Ignacio Delgado Vargas
 
 Matias Inostroza Quinteros
 
+--------------------------------------------
+
+
 Universidad Tecnologica Metropolitana.
 
 Facultad de Ingenieria.
