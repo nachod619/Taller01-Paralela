@@ -1,6 +1,6 @@
 #variables
 CC=mpig++
-obj= secuencial.cpp
+obj= mpi.cpp
 LIB=-lm -lmpi
 MKDIR=mkdir -p
 CPPFLAGS=-Wall -g3
